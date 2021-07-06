@@ -17,4 +17,8 @@ ke lokasi .txt sudah anda tentukan.
 # Preview
 ![Preview](https://user-images.githubusercontent.com/72332713/124576994-11709f00-de77-11eb-92fc-ce34ac3c8cee.png)
 
+*Note 
+
+Pojok kiri atas adalah server, sedangkan 3 lainnya adalah client.
+
 
