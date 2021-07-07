@@ -25,5 +25,4 @@ Pojok kiri atas adalah server, sedangkan 3 lainnya adalah client.
 
 # Flowchart
 Berikut adalah Flowchart pada server yang menangani client
-![Flow Multiclient@2x (1)](https://user-images.githubusercontent.com/72332713/124718819-b26f6080-df30-11eb-80b8-6658490ac81a.png)
- 
+![Flow TCP@2x](https://user-images.githubusercontent.com/72332713/124724665-64f5f200-df36-11eb-8f25-f7927da6623e.png)
